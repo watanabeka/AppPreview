@@ -1,4 +1,4 @@
-// File: /Users/kaisei/Unity/_RUNNING/Upp/app/page.tsx
+// File: /Users/watanabe.ka/Git-Self/watanabeka.github.io/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
